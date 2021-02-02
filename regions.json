@@ -1,0 +1,2336 @@
+[
+    {
+        "key": "13",
+        "name": {
+            "fi": "Etelä-Pohjanmaa",
+            "sv": "Södra Österbotten"
+        },
+        "elements": [
+            {
+                "key": "005",
+                "name": {
+                    "fi": "Alajärvi",
+                    "sv": "Alajärvi"
+                }
+            },
+            {
+                "key": "010",
+                "name": {
+                    "fi": "Alavus",
+                    "sv": "Alavo"
+                }
+            },
+            {
+                "key": "052",
+                "name": {
+                    "fi": "Evijärvi",
+                    "sv": "Evijärvi"
+                }
+            },
+            {
+                "key": "145",
+                "name": {
+                    "fi": "Ilmajoki",
+                    "sv": "Ilmola"
+                }
+            },
+            {
+                "key": "151",
+                "name": {
+                    "fi": "Isojoki",
+                    "sv": "Storå"
+                }
+            },
+            {
+                "key": "152",
+                "name": {
+                    "fi": "Isokyrö",
+                    "sv": "Storkyro"
+                }
+            },
+            {
+                "key": "218",
+                "name": {
+                    "fi": "Karijoki",
+                    "sv": "Bötom"
+                }
+            },
+            {
+                "key": "232",
+                "name": {
+                    "fi": "Kauhajoki",
+                    "sv": "Kauhajoki"
+                }
+            },
+            {
+                "key": "233",
+                "name": {
+                    "fi": "Kauhava",
+                    "sv": "Kauhava"
+                }
+            },
+            {
+                "key": "300",
+                "name": {
+                    "fi": "Kuortane",
+                    "sv": "Kuortane"
+                }
+            },
+            {
+                "key": "301",
+                "name": {
+                    "fi": "Kurikka",
+                    "sv": "Kurikka"
+                }
+            },
+            {
+                "key": "403",
+                "name": {
+                    "fi": "Lappajärvi",
+                    "sv": "Lappajärvi"
+                }
+            },
+            {
+                "key": "408",
+                "name": {
+                    "fi": "Lapua",
+                    "sv": "Lappo"
+                }
+            },
+            {
+                "key": "743",
+                "name": {
+                    "fi": "Seinäjoki",
+                    "sv": "Seinäjoki"
+                }
+            },
+            {
+                "key": "759",
+                "name": {
+                    "fi": "Soini",
+                    "sv": "Soini"
+                }
+            },
+            {
+                "key": "846",
+                "name": {
+                    "fi": "Teuva",
+                    "sv": "Östermark"
+                }
+            },
+            {
+                "key": "934",
+                "name": {
+                    "fi": "Vimpeli",
+                    "sv": "Vindala"
+                }
+            },
+            {
+                "key": "989",
+                "name": {
+                    "fi": "Ähtäri",
+                    "sv": "Etseri"
+                }
+            }
+        ]
+    },
+    {
+        "key": "16",
+        "name": {
+            "fi": "Pohjois-Pohjanmaa",
+            "sv": "Norra Österbotten"
+        },
+        "elements": [
+            {
+                "key": "009",
+                "name": {
+                    "fi": "Alavieska",
+                    "sv": "Alavieska"
+                }
+            },
+            {
+                "key": "069",
+                "name": {
+                    "fi": "Haapajärvi",
+                    "sv": "Haapajärvi"
+                }
+            },
+            {
+                "key": "071",
+                "name": {
+                    "fi": "Haapavesi",
+                    "sv": "Haapavesi"
+                }
+            },
+            {
+                "key": "072",
+                "name": {
+                    "fi": "Hailuoto",
+                    "sv": "Karlö"
+                }
+            },
+            {
+                "key": "139",
+                "name": {
+                    "fi": "Ii",
+                    "sv": "Ijo"
+                }
+            },
+            {
+                "key": "208",
+                "name": {
+                    "fi": "Kalajoki",
+                    "sv": "Kalajoki"
+                }
+            },
+            {
+                "key": "244",
+                "name": {
+                    "fi": "Kempele",
+                    "sv": "Kempele"
+                }
+            },
+            {
+                "key": "305",
+                "name": {
+                    "fi": "Kuusamo",
+                    "sv": "Kuusamo"
+                }
+            },
+            {
+                "key": "317",
+                "name": {
+                    "fi": "Kärsämäki",
+                    "sv": "Kärsämäki"
+                }
+            },
+            {
+                "key": "425",
+                "name": {
+                    "fi": "Liminka",
+                    "sv": "Limingo"
+                }
+            },
+            {
+                "key": "436",
+                "name": {
+                    "fi": "Lumijoki",
+                    "sv": "Lumijoki"
+                }
+            },
+            {
+                "key": "483",
+                "name": {
+                    "fi": "Merijärvi",
+                    "sv": "Merijärvi"
+                }
+            },
+            {
+                "key": "494",
+                "name": {
+                    "fi": "Muhos",
+                    "sv": "Muhos"
+                }
+            },
+            {
+                "key": "535",
+                "name": {
+                    "fi": "Nivala",
+                    "sv": "Nivala"
+                }
+            },
+            {
+                "key": "563",
+                "name": {
+                    "fi": "Oulainen",
+                    "sv": "Oulainen"
+                }
+            },
+            {
+                "key": "564",
+                "name": {
+                    "fi": "Oulu",
+                    "sv": "Uleåborg"
+                }
+            },
+            {
+                "key": "615",
+                "name": {
+                    "fi": "Pudasjärvi",
+                    "sv": "Pudasjärvi"
+                }
+            },
+            {
+                "key": "625",
+                "name": {
+                    "fi": "Pyhäjoki",
+                    "sv": "Pyhäjoki"
+                }
+            },
+            {
+                "key": "626",
+                "name": {
+                    "fi": "Pyhäjärvi",
+                    "sv": "Pyhäjärvi"
+                }
+            },
+            {
+                "key": "630",
+                "name": {
+                    "fi": "Pyhäntä",
+                    "sv": "Pyhäntä"
+                }
+            },
+            {
+                "key": "678",
+                "name": {
+                    "fi": "Raahe",
+                    "sv": "Brahestad"
+                }
+            },
+            {
+                "key": "691",
+                "name": {
+                    "fi": "Reisjärvi",
+                    "sv": "Reisjärvi"
+                }
+            },
+            {
+                "key": "746",
+                "name": {
+                    "fi": "Sievi",
+                    "sv": "Sievi"
+                }
+            },
+            {
+                "key": "748",
+                "name": {
+                    "fi": "Siikajoki",
+                    "sv": "Siikajoki"
+                }
+            },
+            {
+                "key": "785",
+                "name": {
+                    "fi": "Vaala",
+                    "sv": "Vaala"
+                }
+            },
+            {
+                "key": "791",
+                "name": {
+                    "fi": "Siikalatva",
+                    "sv": "Siikalatva"
+                }
+            },
+            {
+                "key": "832",
+                "name": {
+                    "fi": "Taivalkoski",
+                    "sv": "Taivalkoski"
+                }
+            },
+            {
+                "key": "859",
+                "name": {
+                    "fi": "Tyrnävä",
+                    "sv": "Tyrnävä"
+                }
+            },
+            {
+                "key": "889",
+                "name": {
+                    "fi": "Utajärvi",
+                    "sv": "Utajärvi"
+                }
+            },
+            {
+                "key": "977",
+                "name": {
+                    "fi": "Ylivieska",
+                    "sv": "Ylivieska"
+                }
+            }
+        ]
+    },
+    {
+        "key": "6",
+        "name": {
+            "fi": "Päijät-Häme",
+            "sv": "Päijänne-Tavastland"
+        },
+        "elements": [
+            {
+                "key": "016",
+                "name": {
+                    "fi": "Asikkala",
+                    "sv": "Asikkala"
+                }
+            },
+            {
+                "key": "081",
+                "name": {
+                    "fi": "Hartola",
+                    "sv": "Gustav Adolfs"
+                }
+            },
+            {
+                "key": "098",
+                "name": {
+                    "fi": "Hollola",
+                    "sv": "Hollola"
+                }
+            },
+            {
+                "key": "111",
+                "name": {
+                    "fi": "Heinola",
+                    "sv": "Heinola"
+                }
+            },
+            {
+                "key": "142",
+                "name": {
+                    "fi": "Iitti",
+                    "sv": "Itis"
+                }
+            },
+            {
+                "key": "316",
+                "name": {
+                    "fi": "Kärkölä",
+                    "sv": "Kärkölä"
+                }
+            },
+            {
+                "key": "398",
+                "name": {
+                    "fi": "Lahti",
+                    "sv": "Lahtis"
+                }
+            },
+            {
+                "key": "560",
+                "name": {
+                    "fi": "Orimattila",
+                    "sv": "Orimattila"
+                }
+            },
+            {
+                "key": "576",
+                "name": {
+                    "fi": "Padasjoki",
+                    "sv": "Padasjoki"
+                }
+            },
+            {
+                "key": "781",
+                "name": {
+                    "fi": "Sysmä",
+                    "sv": "Sysmä"
+                }
+            }
+        ]
+    },
+    {
+        "key": "1",
+        "name": {
+            "fi": "Uusimaa",
+            "sv": "Nyland"
+        },
+        "elements": [
+            {
+                "key": "018",
+                "name": {
+                    "fi": "Askola",
+                    "sv": "Askola"
+                }
+            },
+            {
+                "key": "049",
+                "name": {
+                    "fi": "Espoo",
+                    "sv": "Esbo"
+                }
+            },
+            {
+                "key": "078",
+                "name": {
+                    "fi": "Hanko",
+                    "sv": "Hangö"
+                }
+            },
+            {
+                "key": "091",
+                "name": {
+                    "fi": "Helsinki",
+                    "sv": "Helsingfors"
+                }
+            },
+            {
+                "key": "092",
+                "name": {
+                    "fi": "Vantaa",
+                    "sv": "Vanda"
+                }
+            },
+            {
+                "key": "106",
+                "name": {
+                    "fi": "Hyvinkää",
+                    "sv": "Hyvinge"
+                }
+            },
+            {
+                "key": "149",
+                "name": {
+                    "fi": "Inkoo",
+                    "sv": "Ingå"
+                }
+            },
+            {
+                "key": "186",
+                "name": {
+                    "fi": "Järvenpää",
+                    "sv": "Träskända"
+                }
+            },
+            {
+                "key": "224",
+                "name": {
+                    "fi": "Karkkila",
+                    "sv": "Högfors"
+                }
+            },
+            {
+                "key": "235",
+                "name": {
+                    "fi": "Kauniainen",
+                    "sv": "Grankulla"
+                }
+            },
+            {
+                "key": "245",
+                "name": {
+                    "fi": "Kerava",
+                    "sv": "Kervo"
+                }
+            },
+            {
+                "key": "257",
+                "name": {
+                    "fi": "Kirkkonummi",
+                    "sv": "Kyrkslätt"
+                }
+            },
+            {
+                "key": "407",
+                "name": {
+                    "fi": "Lapinjärvi",
+                    "sv": "Lappträsk"
+                }
+            },
+            {
+                "key": "434",
+                "name": {
+                    "fi": "Loviisa",
+                    "sv": "Lovisa"
+                }
+            },
+            {
+                "key": "444",
+                "name": {
+                    "fi": "Lohja",
+                    "sv": "Lojo"
+                }
+            },
+            {
+                "key": "504",
+                "name": {
+                    "fi": "Myrskylä",
+                    "sv": "Mörskom"
+                }
+            },
+            {
+                "key": "505",
+                "name": {
+                    "fi": "Mäntsälä",
+                    "sv": "Mäntsälä"
+                }
+            },
+            {
+                "key": "543",
+                "name": {
+                    "fi": "Nurmijärvi",
+                    "sv": "Nurmijärvi"
+                }
+            },
+            {
+                "key": "611",
+                "name": {
+                    "fi": "Pornainen",
+                    "sv": "Borgnäs"
+                }
+            },
+            {
+                "key": "616",
+                "name": {
+                    "fi": "Pukkila",
+                    "sv": "Pukkila"
+                }
+            },
+            {
+                "key": "638",
+                "name": {
+                    "fi": "Porvoo",
+                    "sv": "Borgå"
+                }
+            },
+            {
+                "key": "710",
+                "name": {
+                    "fi": "Raasepori",
+                    "sv": "Raseborg"
+                }
+            },
+            {
+                "key": "753",
+                "name": {
+                    "fi": "Sipoo",
+                    "sv": "Sibbo"
+                }
+            },
+            {
+                "key": "755",
+                "name": {
+                    "fi": "Siuntio",
+                    "sv": "Sjundeå"
+                }
+            },
+            {
+                "key": "858",
+                "name": {
+                    "fi": "Tuusula",
+                    "sv": "Tusby"
+                }
+            },
+            {
+                "key": "927",
+                "name": {
+                    "fi": "Vihti",
+                    "sv": "Vichtis"
+                }
+            }
+        ]
+    },
+    {
+        "key": "2",
+        "name": {
+            "fi": "Varsinais-Suomi",
+            "sv": "Egentliga Finland"
+        },
+        "elements": [
+            {
+                "key": "019",
+                "name": {
+                    "fi": "Aura",
+                    "sv": "Aura"
+                }
+            },
+            {
+                "key": "202",
+                "name": {
+                    "fi": "Kaarina",
+                    "sv": "S:t Karins"
+                }
+            },
+            {
+                "key": "284",
+                "name": {
+                    "fi": "Koski Tl",
+                    "sv": "Koskis"
+                }
+            },
+            {
+                "key": "304",
+                "name": {
+                    "fi": "Kustavi",
+                    "sv": "Gustavs"
+                }
+            },
+            {
+                "key": "322",
+                "name": {
+                    "fi": "Kemiönsaari",
+                    "sv": "Kimitoön"
+                }
+            },
+            {
+                "key": "400",
+                "name": {
+                    "fi": "Laitila",
+                    "sv": "Letala"
+                }
+            },
+            {
+                "key": "423",
+                "name": {
+                    "fi": "Lieto",
+                    "sv": "Lundo"
+                }
+            },
+            {
+                "key": "430",
+                "name": {
+                    "fi": "Loimaa",
+                    "sv": "Loimaa"
+                }
+            },
+            {
+                "key": "445",
+                "name": {
+                    "fi": "Parainen",
+                    "sv": "Pargas"
+                }
+            },
+            {
+                "key": "480",
+                "name": {
+                    "fi": "Marttila",
+                    "sv": "S:t Mårtens"
+                }
+            },
+            {
+                "key": "481",
+                "name": {
+                    "fi": "Masku",
+                    "sv": "Masku"
+                }
+            },
+            {
+                "key": "503",
+                "name": {
+                    "fi": "Mynämäki",
+                    "sv": "Virmo"
+                }
+            },
+            {
+                "key": "529",
+                "name": {
+                    "fi": "Naantali",
+                    "sv": "Nådendal"
+                }
+            },
+            {
+                "key": "538",
+                "name": {
+                    "fi": "Nousiainen",
+                    "sv": "Nousis"
+                }
+            },
+            {
+                "key": "561",
+                "name": {
+                    "fi": "Oripää",
+                    "sv": "Oripää"
+                }
+            },
+            {
+                "key": "577",
+                "name": {
+                    "fi": "Paimio",
+                    "sv": "Pemar"
+                }
+            },
+            {
+                "key": "631",
+                "name": {
+                    "fi": "Pyhäranta",
+                    "sv": "Pyhäranta"
+                }
+            },
+            {
+                "key": "636",
+                "name": {
+                    "fi": "Pöytyä",
+                    "sv": "Pöytyä"
+                }
+            },
+            {
+                "key": "680",
+                "name": {
+                    "fi": "Raisio",
+                    "sv": "Reso"
+                }
+            },
+            {
+                "key": "704",
+                "name": {
+                    "fi": "Rusko",
+                    "sv": "Rusko"
+                }
+            },
+            {
+                "key": "734",
+                "name": {
+                    "fi": "Salo",
+                    "sv": "Salo"
+                }
+            },
+            {
+                "key": "738",
+                "name": {
+                    "fi": "Sauvo",
+                    "sv": "Sagu"
+                }
+            },
+            {
+                "key": "761",
+                "name": {
+                    "fi": "Somero",
+                    "sv": "Somero"
+                }
+            },
+            {
+                "key": "833",
+                "name": {
+                    "fi": "Taivassalo",
+                    "sv": "Tövsala"
+                }
+            },
+            {
+                "key": "853",
+                "name": {
+                    "fi": "Turku",
+                    "sv": "Åbo"
+                }
+            },
+            {
+                "key": "895",
+                "name": {
+                    "fi": "Uusikaupunki",
+                    "sv": "Nystad"
+                }
+            },
+            {
+                "key": "918",
+                "name": {
+                    "fi": "Vehmaa",
+                    "sv": "Vemo"
+                }
+            }
+        ]
+    },
+    {
+        "key": "5",
+        "name": {
+            "fi": "Pirkanmaa",
+            "sv": "Birkaland"
+        },
+        "elements": [
+            {
+                "key": "020",
+                "name": {
+                    "fi": "Akaa",
+                    "sv": "Akas"
+                }
+            },
+            {
+                "key": "108",
+                "name": {
+                    "fi": "Hämeenkyrö",
+                    "sv": "Tavastkyro"
+                }
+            },
+            {
+                "key": "143",
+                "name": {
+                    "fi": "Ikaalinen",
+                    "sv": "Ikalis"
+                }
+            },
+            {
+                "key": "177",
+                "name": {
+                    "fi": "Juupajoki",
+                    "sv": "Juupajoki"
+                }
+            },
+            {
+                "key": "211",
+                "name": {
+                    "fi": "Kangasala",
+                    "sv": "Kangasala"
+                }
+            },
+            {
+                "key": "250",
+                "name": {
+                    "fi": "Kihniö",
+                    "sv": "Kihniö"
+                }
+            },
+            {
+                "key": "291",
+                "name": {
+                    "fi": "Kuhmoinen",
+                    "sv": "Kuhmois"
+                }
+            },
+            {
+                "key": "418",
+                "name": {
+                    "fi": "Lempäälä",
+                    "sv": "Lempäälä"
+                }
+            },
+            {
+                "key": "508",
+                "name": {
+                    "fi": "Mänttä-Vilppula",
+                    "sv": "Mänttä-Vilppula"
+                }
+            },
+            {
+                "key": "536",
+                "name": {
+                    "fi": "Nokia",
+                    "sv": "Nokia"
+                }
+            },
+            {
+                "key": "562",
+                "name": {
+                    "fi": "Orivesi",
+                    "sv": "Orivesi"
+                }
+            },
+            {
+                "key": "581",
+                "name": {
+                    "fi": "Parkano",
+                    "sv": "Parkano"
+                }
+            },
+            {
+                "key": "604",
+                "name": {
+                    "fi": "Pirkkala",
+                    "sv": "Birkala"
+                }
+            },
+            {
+                "key": "619",
+                "name": {
+                    "fi": "Punkalaidun",
+                    "sv": "Punkalaidun"
+                }
+            },
+            {
+                "key": "635",
+                "name": {
+                    "fi": "Pälkäne",
+                    "sv": "Pälkäne"
+                }
+            },
+            {
+                "key": "702",
+                "name": {
+                    "fi": "Ruovesi",
+                    "sv": "Ruovesi"
+                }
+            },
+            {
+                "key": "790",
+                "name": {
+                    "fi": "Sastamala",
+                    "sv": "Sastamala"
+                }
+            },
+            {
+                "key": "837",
+                "name": {
+                    "fi": "Tampere",
+                    "sv": "Tammerfors"
+                }
+            },
+            {
+                "key": "887",
+                "name": {
+                    "fi": "Urjala",
+                    "sv": "Urjala"
+                }
+            },
+            {
+                "key": "908",
+                "name": {
+                    "fi": "Valkeakoski",
+                    "sv": "Valkeakoski"
+                }
+            },
+            {
+                "key": "922",
+                "name": {
+                    "fi": "Vesilahti",
+                    "sv": "Vesilahti"
+                }
+            },
+            {
+                "key": "936",
+                "name": {
+                    "fi": "Virrat",
+                    "sv": "Virdois"
+                }
+            },
+            {
+                "key": "980",
+                "name": {
+                    "fi": "Ylöjärvi",
+                    "sv": "Ylöjärvi"
+                }
+            }
+        ]
+    },
+    {
+        "key": "19",
+        "name": {
+            "fi": "Ahvenanmaa",
+            "sv": "Åland"
+        },
+        "elements": [
+            {
+                "key": "035",
+                "name": {
+                    "fi": "Brändö",
+                    "sv": "Brändö"
+                }
+            },
+            {
+                "key": "043",
+                "name": {
+                    "fi": "Eckerö",
+                    "sv": "Eckerö"
+                }
+            },
+            {
+                "key": "060",
+                "name": {
+                    "fi": "Finström",
+                    "sv": "Finström"
+                }
+            },
+            {
+                "key": "062",
+                "name": {
+                    "fi": "Föglö",
+                    "sv": "Föglö"
+                }
+            },
+            {
+                "key": "065",
+                "name": {
+                    "fi": "Geta",
+                    "sv": "Geta"
+                }
+            },
+            {
+                "key": "076",
+                "name": {
+                    "fi": "Hammarland",
+                    "sv": "Hammarland"
+                }
+            },
+            {
+                "key": "170",
+                "name": {
+                    "fi": "Jomala",
+                    "sv": "Jomala"
+                }
+            },
+            {
+                "key": "295",
+                "name": {
+                    "fi": "Kumlinge",
+                    "sv": "Kumlinge"
+                }
+            },
+            {
+                "key": "318",
+                "name": {
+                    "fi": "Kökar",
+                    "sv": "Kökar"
+                }
+            },
+            {
+                "key": "417",
+                "name": {
+                    "fi": "Lemland",
+                    "sv": "Lemland"
+                }
+            },
+            {
+                "key": "438",
+                "name": {
+                    "fi": "Lumparland",
+                    "sv": "Lumparland"
+                }
+            },
+            {
+                "key": "478",
+                "name": {
+                    "fi": "Maarianhamina",
+                    "sv": "Mariehamn"
+                }
+            },
+            {
+                "key": "736",
+                "name": {
+                    "fi": "Saltvik",
+                    "sv": "Saltvik"
+                }
+            },
+            {
+                "key": "766",
+                "name": {
+                    "fi": "Sottunga",
+                    "sv": "Sottunga"
+                }
+            },
+            {
+                "key": "771",
+                "name": {
+                    "fi": "Sund",
+                    "sv": "Sund"
+                }
+            },
+            {
+                "key": "941",
+                "name": {
+                    "fi": "Vårdö",
+                    "sv": "Vårdö"
+                }
+            }
+        ]
+    },
+    {
+        "key": "9",
+        "name": {
+            "fi": "Etelä-Savo",
+            "sv": "Södra Savolax"
+        },
+        "elements": [
+            {
+                "key": "046",
+                "name": {
+                    "fi": "Enonkoski",
+                    "sv": "Enonkoski"
+                }
+            },
+            {
+                "key": "097",
+                "name": {
+                    "fi": "Hirvensalmi",
+                    "sv": "Hirvensalmi"
+                }
+            },
+            {
+                "key": "178",
+                "name": {
+                    "fi": "Juva",
+                    "sv": "Juva"
+                }
+            },
+            {
+                "key": "213",
+                "name": {
+                    "fi": "Kangasniemi",
+                    "sv": "Kangasniemi"
+                }
+            },
+            {
+                "key": "491",
+                "name": {
+                    "fi": "Mikkeli",
+                    "sv": "S:t Michel"
+                }
+            },
+            {
+                "key": "507",
+                "name": {
+                    "fi": "Mäntyharju",
+                    "sv": "Mäntyharju"
+                }
+            },
+            {
+                "key": "588",
+                "name": {
+                    "fi": "Pertunmaa",
+                    "sv": "Pertunmaa"
+                }
+            },
+            {
+                "key": "593",
+                "name": {
+                    "fi": "Pieksämäki",
+                    "sv": "Pieksämäki"
+                }
+            },
+            {
+                "key": "623",
+                "name": {
+                    "fi": "Puumala",
+                    "sv": "Puumala"
+                }
+            },
+            {
+                "key": "681",
+                "name": {
+                    "fi": "Rantasalmi",
+                    "sv": "Rantasalmi"
+                }
+            },
+            {
+                "key": "740",
+                "name": {
+                    "fi": "Savonlinna",
+                    "sv": "Nyslott"
+                }
+            },
+            {
+                "key": "768",
+                "name": {
+                    "fi": "Sulkava",
+                    "sv": "Sulkava"
+                }
+            }
+        ]
+    },
+    {
+        "key": "18",
+        "name": {
+            "fi": "Lappi",
+            "sv": "Lappland"
+        },
+        "elements": [
+            {
+                "key": "047",
+                "name": {
+                    "fi": "Enontekiö",
+                    "sv": "Enontekis"
+                }
+            },
+            {
+                "key": "148",
+                "name": {
+                    "fi": "Inari",
+                    "sv": "Enare"
+                }
+            },
+            {
+                "key": "240",
+                "name": {
+                    "fi": "Kemi",
+                    "sv": "Kemi"
+                }
+            },
+            {
+                "key": "241",
+                "name": {
+                    "fi": "Keminmaa",
+                    "sv": "Keminmaa"
+                }
+            },
+            {
+                "key": "261",
+                "name": {
+                    "fi": "Kittilä",
+                    "sv": "Kittilä"
+                }
+            },
+            {
+                "key": "273",
+                "name": {
+                    "fi": "Kolari",
+                    "sv": "Kolari"
+                }
+            },
+            {
+                "key": "320",
+                "name": {
+                    "fi": "Kemijärvi",
+                    "sv": "Kemijärvi"
+                }
+            },
+            {
+                "key": "498",
+                "name": {
+                    "fi": "Muonio",
+                    "sv": "Muonio"
+                }
+            },
+            {
+                "key": "583",
+                "name": {
+                    "fi": "Pelkosenniemi",
+                    "sv": "Pelkosenniemi"
+                }
+            },
+            {
+                "key": "614",
+                "name": {
+                    "fi": "Posio",
+                    "sv": "Posio"
+                }
+            },
+            {
+                "key": "683",
+                "name": {
+                    "fi": "Ranua",
+                    "sv": "Ranua"
+                }
+            },
+            {
+                "key": "698",
+                "name": {
+                    "fi": "Rovaniemi",
+                    "sv": "Rovaniemi"
+                }
+            },
+            {
+                "key": "732",
+                "name": {
+                    "fi": "Salla",
+                    "sv": "Salla"
+                }
+            },
+            {
+                "key": "742",
+                "name": {
+                    "fi": "Savukoski",
+                    "sv": "Savukoski"
+                }
+            },
+            {
+                "key": "751",
+                "name": {
+                    "fi": "Simo",
+                    "sv": "Simo"
+                }
+            },
+            {
+                "key": "758",
+                "name": {
+                    "fi": "Sodankylä",
+                    "sv": "Sodankylä"
+                }
+            },
+            {
+                "key": "845",
+                "name": {
+                    "fi": "Tervola",
+                    "sv": "Tervola"
+                }
+            },
+            {
+                "key": "851",
+                "name": {
+                    "fi": "Tornio",
+                    "sv": "Torneå"
+                }
+            },
+            {
+                "key": "854",
+                "name": {
+                    "fi": "Pello",
+                    "sv": "Pello"
+                }
+            },
+            {
+                "key": "890",
+                "name": {
+                    "fi": "Utsjoki",
+                    "sv": "Utsjoki"
+                }
+            },
+            {
+                "key": "976",
+                "name": {
+                    "fi": "Ylitornio",
+                    "sv": "Övertorneå"
+                }
+            }
+        ]
+    },
+    {
+        "key": "3",
+        "name": {
+            "fi": "Satakunta",
+            "sv": "Satakunta"
+        },
+        "elements": [
+            {
+                "key": "050",
+                "name": {
+                    "fi": "Eura",
+                    "sv": "Eura"
+                }
+            },
+            {
+                "key": "051",
+                "name": {
+                    "fi": "Eurajoki",
+                    "sv": "Euraåminne"
+                }
+            },
+            {
+                "key": "079",
+                "name": {
+                    "fi": "Harjavalta",
+                    "sv": "Harjavalta"
+                }
+            },
+            {
+                "key": "102",
+                "name": {
+                    "fi": "Huittinen",
+                    "sv": "Vittis"
+                }
+            },
+            {
+                "key": "181",
+                "name": {
+                    "fi": "Jämijärvi",
+                    "sv": "Jämijärvi"
+                }
+            },
+            {
+                "key": "214",
+                "name": {
+                    "fi": "Kankaanpää",
+                    "sv": "Kankaanpää"
+                }
+            },
+            {
+                "key": "230",
+                "name": {
+                    "fi": "Karvia",
+                    "sv": "Karvia"
+                }
+            },
+            {
+                "key": "271",
+                "name": {
+                    "fi": "Kokemäki",
+                    "sv": "Kumo"
+                }
+            },
+            {
+                "key": "484",
+                "name": {
+                    "fi": "Merikarvia",
+                    "sv": "Sastmola"
+                }
+            },
+            {
+                "key": "531",
+                "name": {
+                    "fi": "Nakkila",
+                    "sv": "Nakkila"
+                }
+            },
+            {
+                "key": "608",
+                "name": {
+                    "fi": "Pomarkku",
+                    "sv": "Påmark"
+                }
+            },
+            {
+                "key": "609",
+                "name": {
+                    "fi": "Pori",
+                    "sv": "Björneborg"
+                }
+            },
+            {
+                "key": "684",
+                "name": {
+                    "fi": "Rauma",
+                    "sv": "Raumo"
+                }
+            },
+            {
+                "key": "747",
+                "name": {
+                    "fi": "Siikainen",
+                    "sv": "Siikais"
+                }
+            },
+            {
+                "key": "783",
+                "name": {
+                    "fi": "Säkylä",
+                    "sv": "Säkylä"
+                }
+            },
+            {
+                "key": "886",
+                "name": {
+                    "fi": "Ulvila",
+                    "sv": "Ulvsby"
+                }
+            }
+        ]
+    },
+    {
+        "key": "4",
+        "name": {
+            "fi": "Kanta-Häme",
+            "sv": "Egentliga Tavastland"
+        },
+        "elements": [
+            {
+                "key": "061",
+                "name": {
+                    "fi": "Forssa",
+                    "sv": "Forssa"
+                }
+            },
+            {
+                "key": "082",
+                "name": {
+                    "fi": "Hattula",
+                    "sv": "Hattula"
+                }
+            },
+            {
+                "key": "086",
+                "name": {
+                    "fi": "Hausjärvi",
+                    "sv": "Hausjärvi"
+                }
+            },
+            {
+                "key": "103",
+                "name": {
+                    "fi": "Humppila",
+                    "sv": "Humppila"
+                }
+            },
+            {
+                "key": "109",
+                "name": {
+                    "fi": "Hämeenlinna",
+                    "sv": "Tavastehus"
+                }
+            },
+            {
+                "key": "165",
+                "name": {
+                    "fi": "Janakkala",
+                    "sv": "Janakkala"
+                }
+            },
+            {
+                "key": "169",
+                "name": {
+                    "fi": "Jokioinen",
+                    "sv": "Jockis"
+                }
+            },
+            {
+                "key": "433",
+                "name": {
+                    "fi": "Loppi",
+                    "sv": "Loppi"
+                }
+            },
+            {
+                "key": "694",
+                "name": {
+                    "fi": "Riihimäki",
+                    "sv": "Riihimäki"
+                }
+            },
+            {
+                "key": "834",
+                "name": {
+                    "fi": "Tammela",
+                    "sv": "Tammela"
+                }
+            },
+            {
+                "key": "981",
+                "name": {
+                    "fi": "Ypäjä",
+                    "sv": "Ypäjä"
+                }
+            }
+        ]
+    },
+    {
+        "key": "15",
+        "name": {
+            "fi": "Keski-Pohjanmaa",
+            "sv": "Mellersta Österbotten"
+        },
+        "elements": [
+            {
+                "key": "074",
+                "name": {
+                    "fi": "Halsua",
+                    "sv": "Halso"
+                }
+            },
+            {
+                "key": "217",
+                "name": {
+                    "fi": "Kannus",
+                    "sv": "Kannus"
+                }
+            },
+            {
+                "key": "236",
+                "name": {
+                    "fi": "Kaustinen",
+                    "sv": "Kaustby"
+                }
+            },
+            {
+                "key": "272",
+                "name": {
+                    "fi": "Kokkola",
+                    "sv": "Karleby"
+                }
+            },
+            {
+                "key": "421",
+                "name": {
+                    "fi": "Lestijärvi",
+                    "sv": "Lestijärvi"
+                }
+            },
+            {
+                "key": "584",
+                "name": {
+                    "fi": "Perho",
+                    "sv": "Perho"
+                }
+            },
+            {
+                "key": "849",
+                "name": {
+                    "fi": "Toholampi",
+                    "sv": "Toholampi"
+                }
+            },
+            {
+                "key": "924",
+                "name": {
+                    "fi": "Veteli",
+                    "sv": "Vetil"
+                }
+            }
+        ]
+    },
+    {
+        "key": "7",
+        "name": {
+            "fi": "Kymenlaakso",
+            "sv": "Kymmenedalen"
+        },
+        "elements": [
+            {
+                "key": "075",
+                "name": {
+                    "fi": "Hamina",
+                    "sv": "Fredrikshamn"
+                }
+            },
+            {
+                "key": "285",
+                "name": {
+                    "fi": "Kotka",
+                    "sv": "Kotka"
+                }
+            },
+            {
+                "key": "286",
+                "name": {
+                    "fi": "Kouvola",
+                    "sv": "Kouvola"
+                }
+            },
+            {
+                "key": "489",
+                "name": {
+                    "fi": "Miehikkälä",
+                    "sv": "Miehikkälä"
+                }
+            },
+            {
+                "key": "624",
+                "name": {
+                    "fi": "Pyhtää",
+                    "sv": "Pyttis"
+                }
+            },
+            {
+                "key": "935",
+                "name": {
+                    "fi": "Virolahti",
+                    "sv": "Vederlax"
+                }
+            }
+        ]
+    },
+    {
+        "key": "12",
+        "name": {
+            "fi": "Keski-Suomi",
+            "sv": "Mellersta Finland"
+        },
+        "elements": [
+            {
+                "key": "077",
+                "name": {
+                    "fi": "Hankasalmi",
+                    "sv": "Hankasalmi"
+                }
+            },
+            {
+                "key": "172",
+                "name": {
+                    "fi": "Joutsa",
+                    "sv": "Joutsa"
+                }
+            },
+            {
+                "key": "179",
+                "name": {
+                    "fi": "Jyväskylä",
+                    "sv": "Jyväskylä"
+                }
+            },
+            {
+                "key": "182",
+                "name": {
+                    "fi": "Jämsä",
+                    "sv": "Jämsä"
+                }
+            },
+            {
+                "key": "216",
+                "name": {
+                    "fi": "Kannonkoski",
+                    "sv": "Kannonkoski"
+                }
+            },
+            {
+                "key": "226",
+                "name": {
+                    "fi": "Karstula",
+                    "sv": "Karstula"
+                }
+            },
+            {
+                "key": "249",
+                "name": {
+                    "fi": "Keuruu",
+                    "sv": "Keuru"
+                }
+            },
+            {
+                "key": "256",
+                "name": {
+                    "fi": "Kinnula",
+                    "sv": "Kinnula"
+                }
+            },
+            {
+                "key": "265",
+                "name": {
+                    "fi": "Kivijärvi",
+                    "sv": "Kivijärvi"
+                }
+            },
+            {
+                "key": "275",
+                "name": {
+                    "fi": "Konnevesi",
+                    "sv": "Konnevesi"
+                }
+            },
+            {
+                "key": "312",
+                "name": {
+                    "fi": "Kyyjärvi",
+                    "sv": "Kyyjärvi"
+                }
+            },
+            {
+                "key": "410",
+                "name": {
+                    "fi": "Laukaa",
+                    "sv": "Laukas"
+                }
+            },
+            {
+                "key": "435",
+                "name": {
+                    "fi": "Luhanka",
+                    "sv": "Luhanka"
+                }
+            },
+            {
+                "key": "495",
+                "name": {
+                    "fi": "Multia",
+                    "sv": "Multia"
+                }
+            },
+            {
+                "key": "500",
+                "name": {
+                    "fi": "Muurame",
+                    "sv": "Muurame"
+                }
+            },
+            {
+                "key": "592",
+                "name": {
+                    "fi": "Petäjävesi",
+                    "sv": "Petäjävesi"
+                }
+            },
+            {
+                "key": "601",
+                "name": {
+                    "fi": "Pihtipudas",
+                    "sv": "Pihtipudas"
+                }
+            },
+            {
+                "key": "729",
+                "name": {
+                    "fi": "Saarijärvi",
+                    "sv": "Saarijärvi"
+                }
+            },
+            {
+                "key": "850",
+                "name": {
+                    "fi": "Toivakka",
+                    "sv": "Toivakka"
+                }
+            },
+            {
+                "key": "892",
+                "name": {
+                    "fi": "Uurainen",
+                    "sv": "Uurainen"
+                }
+            },
+            {
+                "key": "931",
+                "name": {
+                    "fi": "Viitasaari",
+                    "sv": "Viitasaari"
+                }
+            },
+            {
+                "key": "992",
+                "name": {
+                    "fi": "Äänekoski",
+                    "sv": "Äänekoski"
+                }
+            }
+        ]
+    },
+    {
+        "key": "11",
+        "name": {
+            "fi": "Pohjois-Karjala",
+            "sv": "Norra Karelen"
+        },
+        "elements": [
+            {
+                "key": "090",
+                "name": {
+                    "fi": "Heinävesi",
+                    "sv": "Heinävesi"
+                }
+            },
+            {
+                "key": "146",
+                "name": {
+                    "fi": "Ilomantsi",
+                    "sv": "Ilomants"
+                }
+            },
+            {
+                "key": "167",
+                "name": {
+                    "fi": "Joensuu",
+                    "sv": "Joensuu"
+                }
+            },
+            {
+                "key": "176",
+                "name": {
+                    "fi": "Juuka",
+                    "sv": "Juga"
+                }
+            },
+            {
+                "key": "260",
+                "name": {
+                    "fi": "Kitee",
+                    "sv": "Kides"
+                }
+            },
+            {
+                "key": "276",
+                "name": {
+                    "fi": "Kontiolahti",
+                    "sv": "Kontiolax"
+                }
+            },
+            {
+                "key": "309",
+                "name": {
+                    "fi": "Outokumpu",
+                    "sv": "Outokumpu"
+                }
+            },
+            {
+                "key": "422",
+                "name": {
+                    "fi": "Lieksa",
+                    "sv": "Lieksa"
+                }
+            },
+            {
+                "key": "426",
+                "name": {
+                    "fi": "Liperi",
+                    "sv": "Libelits"
+                }
+            },
+            {
+                "key": "541",
+                "name": {
+                    "fi": "Nurmes",
+                    "sv": "Nurmes"
+                }
+            },
+            {
+                "key": "607",
+                "name": {
+                    "fi": "Polvijärvi",
+                    "sv": "Polvijärvi"
+                }
+            },
+            {
+                "key": "707",
+                "name": {
+                    "fi": "Rääkkylä",
+                    "sv": "Rääkkylä"
+                }
+            },
+            {
+                "key": "848",
+                "name": {
+                    "fi": "Tohmajärvi",
+                    "sv": "Tohmajärvi"
+                }
+            }
+        ]
+    },
+    {
+        "key": "17",
+        "name": {
+            "fi": "Kainuu",
+            "sv": "Kajanaland"
+        },
+        "elements": [
+            {
+                "key": "105",
+                "name": {
+                    "fi": "Hyrynsalmi",
+                    "sv": "Hyrynsalmi"
+                }
+            },
+            {
+                "key": "205",
+                "name": {
+                    "fi": "Kajaani",
+                    "sv": "Kajana"
+                }
+            },
+            {
+                "key": "290",
+                "name": {
+                    "fi": "Kuhmo",
+                    "sv": "Kuhmo"
+                }
+            },
+            {
+                "key": "578",
+                "name": {
+                    "fi": "Paltamo",
+                    "sv": "Paltamo"
+                }
+            },
+            {
+                "key": "620",
+                "name": {
+                    "fi": "Puolanka",
+                    "sv": "Puolanka"
+                }
+            },
+            {
+                "key": "697",
+                "name": {
+                    "fi": "Ristijärvi",
+                    "sv": "Ristijärvi"
+                }
+            },
+            {
+                "key": "765",
+                "name": {
+                    "fi": "Sotkamo",
+                    "sv": "Sotkamo"
+                }
+            },
+            {
+                "key": "777",
+                "name": {
+                    "fi": "Suomussalmi",
+                    "sv": "Suomussalmi"
+                }
+            }
+        ]
+    },
+    {
+        "key": "10",
+        "name": {
+            "fi": "Pohjois-Savo",
+            "sv": "Norra Savolax"
+        },
+        "elements": [
+            {
+                "key": "140",
+                "name": {
+                    "fi": "Iisalmi",
+                    "sv": "Idensalmi"
+                }
+            },
+            {
+                "key": "171",
+                "name": {
+                    "fi": "Joroinen",
+                    "sv": "Jorois"
+                }
+            },
+            {
+                "key": "204",
+                "name": {
+                    "fi": "Kaavi",
+                    "sv": "Kaavi"
+                }
+            },
+            {
+                "key": "239",
+                "name": {
+                    "fi": "Keitele",
+                    "sv": "Keitele"
+                }
+            },
+            {
+                "key": "263",
+                "name": {
+                    "fi": "Kiuruvesi",
+                    "sv": "Kiuruvesi"
+                }
+            },
+            {
+                "key": "297",
+                "name": {
+                    "fi": "Kuopio",
+                    "sv": "Kuopio"
+                }
+            },
+            {
+                "key": "402",
+                "name": {
+                    "fi": "Lapinlahti",
+                    "sv": "Lapinlahti"
+                }
+            },
+            {
+                "key": "420",
+                "name": {
+                    "fi": "Leppävirta",
+                    "sv": "Leppävirta"
+                }
+            },
+            {
+                "key": "595",
+                "name": {
+                    "fi": "Pielavesi",
+                    "sv": "Pielavesi"
+                }
+            },
+            {
+                "key": "686",
+                "name": {
+                    "fi": "Rautalampi",
+                    "sv": "Rautalampi"
+                }
+            },
+            {
+                "key": "687",
+                "name": {
+                    "fi": "Rautavaara",
+                    "sv": "Rautavaara"
+                }
+            },
+            {
+                "key": "749",
+                "name": {
+                    "fi": "Siilinjärvi",
+                    "sv": "Siilinjärvi"
+                }
+            },
+            {
+                "key": "762",
+                "name": {
+                    "fi": "Sonkajärvi",
+                    "sv": "Sonkajärvi"
+                }
+            },
+            {
+                "key": "778",
+                "name": {
+                    "fi": "Suonenjoki",
+                    "sv": "Suonenjoki"
+                }
+            },
+            {
+                "key": "844",
+                "name": {
+                    "fi": "Tervo",
+                    "sv": "Tervo"
+                }
+            },
+            {
+                "key": "857",
+                "name": {
+                    "fi": "Tuusniemi",
+                    "sv": "Tuusniemi"
+                }
+            },
+            {
+                "key": "915",
+                "name": {
+                    "fi": "Varkaus",
+                    "sv": "Varkaus"
+                }
+            },
+            {
+                "key": "921",
+                "name": {
+                    "fi": "Vesanto",
+                    "sv": "Vesanto"
+                }
+            },
+            {
+                "key": "925",
+                "name": {
+                    "fi": "Vieremä",
+                    "sv": "Vieremä"
+                }
+            }
+        ]
+    },
+    {
+        "key": "8",
+        "name": {
+            "fi": "Etelä-Karjala",
+            "sv": "Södra Karelen"
+        },
+        "elements": [
+            {
+                "key": "153",
+                "name": {
+                    "fi": "Imatra",
+                    "sv": "Imatra"
+                }
+            },
+            {
+                "key": "405",
+                "name": {
+                    "fi": "Lappeenranta",
+                    "sv": "Villmanstrand"
+                }
+            },
+            {
+                "key": "416",
+                "name": {
+                    "fi": "Lemi",
+                    "sv": "Lemi"
+                }
+            },
+            {
+                "key": "441",
+                "name": {
+                    "fi": "Luumäki",
+                    "sv": "Luumäki"
+                }
+            },
+            {
+                "key": "580",
+                "name": {
+                    "fi": "Parikkala",
+                    "sv": "Parikkala"
+                }
+            },
+            {
+                "key": "689",
+                "name": {
+                    "fi": "Rautjärvi",
+                    "sv": "Rautjärvi"
+                }
+            },
+            {
+                "key": "700",
+                "name": {
+                    "fi": "Ruokolahti",
+                    "sv": "Ruokolax"
+                }
+            },
+            {
+                "key": "739",
+                "name": {
+                    "fi": "Savitaipale",
+                    "sv": "Savitaipale"
+                }
+            },
+            {
+                "key": "831",
+                "name": {
+                    "fi": "Taipalsaari",
+                    "sv": "Taipalsaari"
+                }
+            }
+        ]
+    },
+    {
+        "key": "14",
+        "name": {
+            "fi": "Pohjanmaa",
+            "sv": "Österbotten"
+        },
+        "elements": [
+            {
+                "key": "231",
+                "name": {
+                    "fi": "Kaskinen",
+                    "sv": "Kaskö"
+                }
+            },
+            {
+                "key": "280",
+                "name": {
+                    "fi": "Korsnäs",
+                    "sv": "Korsnäs"
+                }
+            },
+            {
+                "key": "287",
+                "name": {
+                    "fi": "Kristiinankaupunki",
+                    "sv": "Kristinestad"
+                }
+            },
+            {
+                "key": "288",
+                "name": {
+                    "fi": "Kruunupyy",
+                    "sv": "Kronoby"
+                }
+            },
+            {
+                "key": "399",
+                "name": {
+                    "fi": "Laihia",
+                    "sv": "Laihela"
+                }
+            },
+            {
+                "key": "440",
+                "name": {
+                    "fi": "Luoto",
+                    "sv": "Larsmo"
+                }
+            },
+            {
+                "key": "475",
+                "name": {
+                    "fi": "Maalahti",
+                    "sv": "Malax"
+                }
+            },
+            {
+                "key": "499",
+                "name": {
+                    "fi": "Mustasaari",
+                    "sv": "Korsholm"
+                }
+            },
+            {
+                "key": "545",
+                "name": {
+                    "fi": "Närpiö",
+                    "sv": "Närpes"
+                }
+            },
+            {
+                "key": "598",
+                "name": {
+                    "fi": "Pietarsaari",
+                    "sv": "Jakobstad"
+                }
+            },
+            {
+                "key": "599",
+                "name": {
+                    "fi": "Pedersören kunta",
+                    "sv": "Pedersöre"
+                }
+            },
+            {
+                "key": "893",
+                "name": {
+                    "fi": "Uusikaarlepyy",
+                    "sv": "Nykarleby"
+                }
+            },
+            {
+                "key": "905",
+                "name": {
+                    "fi": "Vaasa",
+                    "sv": "Vasa"
+                }
+            },
+            {
+                "key": "946",
+                "name": {
+                    "fi": "Vöyri",
+                    "sv": "Vörå"
+                }
+            }
+        ]
+    }
+]

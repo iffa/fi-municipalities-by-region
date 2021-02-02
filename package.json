@@ -1,0 +1,17 @@
+{
+  "name": "fi-municipalities-by-region",
+  "version": "1.0.0",
+  "description": "magic",
+  "repository": "https://github.com/iffa/fi-municipalities-by-region.git",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santeri Elo <me@santeri.xyz>",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "unique-by": "^1.0.0"
+  }
+}

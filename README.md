@@ -1,0 +1,2 @@
+# fi-municipalities-by-region
+quick tool to turn municipalities.csv from https://www.avoindata.fi/data/fi/dataset/kuntaluettelo/resource/cb261c69-9883-486b-9e41-e0560471df86?inner_span=True into json, in region -> municipality hierarchy
