@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "description": "magic",
   "repository": "https://github.com/iffa/fi-municipalities-by-region.git",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "Santeri Elo <me@santeri.xyz>",
   "license": "ISC",
   "dependencies": {
